@@ -3,8 +3,6 @@
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O aplicativo "O QUE É GOLANG WEB SERVER" é uma página web que fornece uma breve explicação sobre a linguagem de programação Go (Golang) e sua capacidade de criar servidores web. Ele destaca as principais características e benefícios do Go, bem como seu uso para desenvolver servidores web robustos e eficientes.
