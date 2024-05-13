@@ -30,10 +30,11 @@ O aplicativo "O QUE É GOLANG WEB SERVER" é uma página web que fornece uma bre
 4. Se desejar, clique no ícone "GitHub" no canto superior direito para acessar o repositório GitHub relacionado ao "CURSO DE GOLANG".
 
 ## NÃO SABE?
-- Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
 * [CURSO DE GOLANG](https://github.com/VILHALVA/CURSO-DE-GOLANG)
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE MATERIALIZECSS](https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS)
+* [VEJA A DOCUMENTAÇÃO DO "NET/HTTP"](https://pkg.go.dev/net/http)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
